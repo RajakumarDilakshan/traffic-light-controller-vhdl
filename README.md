@@ -17,6 +17,6 @@ To simulate the design:
 
 ### Simulation Results
 Below is the waveform showing the simulation results:
+![Simulation_Result](https://github.com/user-attachments/assets/e5b652ad-a050-40b8-a9ca-fb6a3f4d7a34)
 
-![Simulation Result](Simulation_Result.png)
 
