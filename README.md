@@ -18,5 +18,5 @@ To simulate the design:
 ### Simulation Results
 Below is the waveform showing the simulation results:
 
-![Simulation Result](images/Simulation Result.png)
+![Simulation Result](SimulationResult.png)
 
