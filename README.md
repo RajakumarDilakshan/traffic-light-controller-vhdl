@@ -15,4 +15,8 @@ To simulate the design:
 2. Compile `traffic_light_controller.vhd` and `traffic_light_tb.vhd`.
 3. Run the simulation and observe the outputs.
 
+### Simulation Results
+Below is the waveform showing the simulation results:
+
+![Simulation Result](images/Simulation Result.png)
 
